@@ -32,20 +32,3 @@
 
 **Tools & Others**  
 `Git`, `Postman`, `Stripe`, `Shopify APIs`
-
-## 📜 Projects
-
-- **Stripe Subscriptions System**  
-  Setup complete Stripe billing flows with webhook handling and user role access based on plans.
-
-- **Shopify Integration**  
-  Pulled data using admin API and webhooks, synced with internal dashboard, stored in DynamoDB.
-
-- **Contentful CMS Store App**  
-  Dynamically renders pages from Contentful content models.
-
-## 📫 How to Reach Me
-
-- 📧 moheedsiddiqui74@gmail.com  
-- 📍 Karachi, Pakistan  
-- 🔗 [LinkedIn](https://linkedin.com/in/moheed-siddiqui)  
