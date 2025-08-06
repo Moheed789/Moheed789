@@ -23,11 +23,21 @@ I'm a passionate back-end developer who loves NodeJS, Serverless frameworks!
 <a href="https://graphql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 
-**Databases**  
-`PostgreSQL`, `MongoDB`, `DynamoDB`, `RDS`
+#### Databases  
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+<a href="https://aws.amazon.com/dynamodb/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dynamodb-colored.svg" width="36" height="36" alt="DynamoDB" /></a>
+<a href="https://aws.amazon.com/rds/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rds-colored.svg" width="36" height="36" alt="RDS" /></a>
 
-**Cloud & DevOps**  
-`AWS Lambda`, `API Gateway`, `AppSync`, `EC2`, `S3`, `RDS`, `VPC`, `IAM`, `SNS`, `SQS`, `Cognito`
+#### Cloud 
+<a href="https://aws.amazon.com/lambda/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/lambda-colored.svg" width="36" height="36" alt="Lambda" /></a>
+<a href="https://aws.amazon.com/api-gateway/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/api-gateway-colored.svg" width="36" height="36" alt="API Gateway" /></a>
+<a href="https://aws.amazon.com/appsync/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/appsync-colored.svg" width="36" height="36" alt="AppSync" /></a>
+<a href="https://aws.amazon.com/ec2/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ec2-colored.svg" width="36" height="36" alt="EC2" /></a>
+<a href="https://aws.amazon.com/s3/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/s3-colored.svg" width="36" height="36" alt="S3" /></a>
+<a href="https://aws.amazon.com/vpc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vpc-colored.svg" width="36" height="36" alt="VPC" /></a>
+<a href="https://aws.amazon.com/iam/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/iam-colored.svg" width="36" height="36" alt="IAM" /></a>
+<a href="https://aws.amazon.com/sns/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sns-colored.svg" width="36" height="36" alt="SNS" /></a>
 
 **Tools & Others**  
 `Git`, `Postman`, `Stripe`, `Shopify APIs`
