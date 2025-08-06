@@ -15,9 +15,8 @@ I'm a passionate back-end developer who loves NodeJS, Serverless frameworks!
 
 ## Skills
 
-**Languages & Frameworks** 
+#### Languages & Frameworks 
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-`Node.js`, `NestJS`, `TypeScript`, `GraphQL`, `JavaScript`, `Python`, `HTML`, `CSS`
 
 **Databases**  
 `PostgreSQL`, `MongoDB`, `DynamoDB`, `RDS`
