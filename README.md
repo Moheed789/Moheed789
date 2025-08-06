@@ -38,9 +38,13 @@ I'm a passionate back-end developer who loves NodeJS, Serverless frameworks!
 <a href="https://aws.amazon.com/vpc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vpc-colored.svg" width="36" height="36" alt="VPC" /></a>
 <a href="https://aws.amazon.com/iam/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/iam-colored.svg" width="36" height="36" alt="IAM" /></a>
 <a href="https://aws.amazon.com/sns/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sns-colored.svg" width="36" height="36" alt="SNS" /></a>
+<a href="https://aws.amazon.com/sqs/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sqs-colored.svg" width="36" height="36" alt="SQS" /></a>
+<a href="https://aws.amazon.com/pm/cognito/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cognito-colored.svg" width="36" height="36" alt="Cognito" /></a>
 
 **Tools & Others**  
-`Git`, `Postman`, `Stripe`, `Shopify APIs`
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postman-colored.svg" width="36" height="36" alt="Postman" /></a>
+<a href="https://stripe.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/stripe-colored.svg" width="36" height="36" alt="Stripe" /></a>
+<a href="https://www.shopify.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/shopify-colored.svg" width="36" height="36" alt="Shopify" /></a>
 
 ### Socials
 
