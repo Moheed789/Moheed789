@@ -26,7 +26,7 @@ I'm a passionate back-end developer who loves NodeJS, Serverless frameworks!
 #### Databases  
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://aws.amazon.com/dynamodb/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Moheed789/Moheed789/main/assets/dynamoDB.png" width="36" height="36" alt="DynamoDB" /></a>
+<a href="https://aws.amazon.com/dynamodb/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Moheed789/Moheed789/main/assets/DynamoDB.png" width="36" height="36" alt="DynamoDB" /></a>
 <a href="https://aws.amazon.com/rds/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Moheed789/Moheed789/main/assets/rds.png" width="36" height="36" alt="RDS" /></a>
 
 #### Cloud 
