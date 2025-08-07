@@ -48,9 +48,7 @@ I'm a passionate back-end developer who loves NodeJS, Serverless frameworks!
 
 ### Socials
 
-<a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Moheed789/Moheed789/main/assets/postman.png" width="36" height="36" alt="Postman" /></a>
-<a href="https://stripe.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Moheed789/Moheed789/main/assets/stripe.png" width="36" height="36" alt="Stripe" /></a>
-<a href="https://www.shopify.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Moheed789/Moheed789/main/assets/shopify.png" width="36" height="36" alt="Shopify" /></a>
+<p align="left"> <a href="https://www.codepen.io/m-h-mm-d-w-h-j-s-dd-q" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/moheed.siddiqui.2025" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://github.com/Moheed789/Moheed789" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/moheed-siddiqui/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
