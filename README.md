@@ -15,36 +15,15 @@ I'm a passionate back-end developer who loves NodeJS, Serverless frameworks!
 
 ## Skills
 
-#### Languages & Frameworks 
+#### Skills
 <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
 <a href="https://nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" /></a>
 <a href="https://graphql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-
-#### Databases  
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://aws.amazon.com/dynamodb/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Moheed789/Moheed789/main/assets/DynamoDB.png" width="36" height="36" alt="DynamoDB" /></a>
-<a href="https://aws.amazon.com/rds/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Moheed789/Moheed789/main/assets/rds.png" width="36" height="36" alt="RDS" /></a>
-
-#### Cloud 
-<a href="https://aws.amazon.com/lambda/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Moheed789/Moheed789/main/assets/lambda.png" width="36" height="36" alt="Lambda" /></a>
-<a href="https://aws.amazon.com/api-gateway/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Moheed789/Moheed789/main/assets/api_gateway.png" width="36" height="36" alt="API Gateway" /></a>
-<a href="https://aws.amazon.com/appsync/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Moheed789/Moheed789/main/assets/appsync.jpg" width="36" height="36" alt="AppSync" /></a>
-<a href="https://aws.amazon.com/ec2/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Moheed789/Moheed789/main/assets/ec2.png" width="36" height="36" alt="EC2" /></a>
-<a href="https://aws.amazon.com/s3/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Moheed789/Moheed789/main/assets/s3.svg" width="36" height="36" alt="S3" /></a>
-<a href="https://aws.amazon.com/vpc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Moheed789/Moheed789/main/assets/vpc.png" width="36" height="36" alt="VPC" /></a>
-<a href="https://aws.amazon.com/iam/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Moheed789/Moheed789/main/assets/iam.png" width="36" height="36" alt="IAM" /></a>
-<a href="https://aws.amazon.com/sns/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Moheed789/Moheed789/main/assets/sns.jpg" width="36" height="36" alt="SNS" /></a>
-<a href="https://aws.amazon.com/sqs/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Moheed789/Moheed789/main/assets/sqs.png" width="36" height="36" alt="SQS" /></a>
-<a href="https://aws.amazon.com/cognito/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Moheed789/Moheed789/main/assets/cognito.png" width="36" height="36" alt="Cognito" /></a>
-
-**Tools & Others**  
-<a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Moheed789/Moheed789/main/assets/postman.png" width="36" height="36" alt="Postman" /></a>
-<a href="https://stripe.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Moheed789/Moheed789/main/assets/stripe.jpg" width="36" height="36" alt="Stripe" /></a>
-<a href="https://www.shopify.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Moheed789/Moheed789/main/assets/shopify.png" width="36" height="36" alt="Shopify" /></a>
 
 ### Socials
 
