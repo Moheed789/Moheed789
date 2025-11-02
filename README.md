@@ -1,43 +1,157 @@
-# Hey ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I'm Muhammad Moheed Siddiqui
+# Hi 👋, I'm Muhammad Moheed Siddiqui
 
-Backend Developer
-------------------
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Backend+Developer;Node.js+%7C+Serverless;Always+Learning" alt="Typing SVG" />
+</div>
 
-I'm a passionate back-end developer who loves NodeJS, Serverless frameworks!
+---
 
-* 🌍  I'm based in Karachi, Pakistan
-* 👉  Vist my profile [https://registry.jsonresume.org/Moheed789](https://registry.jsonresume.org/Moheed789)
-* ✉️  You can contact me at [moheedsiddiqui74@gmail.com](mailto:moheedsiddiqui74@gmail.com)
-* 🚀  I'm currently working on [Geeksvisor](https://www.geeksvisor.com/)
-* 🧠  I'm learning NodeJS and AWS services.
-* 🤝  I'm open to collaborating on Projects
-* ⚡  I am Batman, Tell Everyone
+## My Stack?! Whatever it takes...
 
-### Skills
+**Software Engineer** - Backend | NodeJS | JavaScript | TypeScript | Python | NestJS
 
-<a href="https://www.javascript.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" /></a>
-<a href="https://graphql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="36" height="36" alt="AWS" /></a>
+Results-driven backend developer with a love for NodeJS and Serverless—building scalable, reliable systems that ship value.
 
-### Socials
+---
 
-<p align="left"> <a href="https://www.codepen.io/m-h-mm-d-w-h-j-s-dd-q" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/moheed.siddiqui.2025" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://github.com/Moheed789/Moheed789" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/moheed-siddiqui/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
 
-### Badges
+---
 
-<b>My GitHub Stats</b>
+## 🛠️ Tech Stack:
 
-<a href="https://github.com/Moheed789"><img src="https://github-readme-stats.vercel.app/api?username=Moheed789&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="MuhammadWahaj075's GitHub stats" /></a>
+<div align="center">
 
-<a href="https://github.com/Moheed789"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Moheed789&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+### Backend & Database
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,typescript,python,postgresql,mongodb,graphql" />
 
-<a href="https://github.com/Moheed789"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Moheed789&theme=react-dark&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+### Tools & Platforms
+<img src="https://skillicons.dev/icons?i=aws,git,github,vscode,figma,netlify,vercel" />
 
+</div>
 
-<a href="https://github.com/Moheed789" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moheed789&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🧠 Geeksvisor (Current Work)
+Backend & serverless integrations for agency projects and internal tooling.
+
+**Tech Stack:** `Node.js` `Serverless` `AWS` `APIs`  
+**Link:** [geeksvisor.com](https://www.geeksvisor.com/)
+
+</td>
+<td width="50%">
+
+### 🗄️ Node/NestJS Experiments  
+A collection of learning repos and patterns exploring NestJS & clean architecture.
+
+**Tech Stack:** `NestJS` `TypeScript` `PostgreSQL`  
+**Link:** [github.com/Moheed789?tab=repositories](https://github.com/Moheed789?tab=repositories)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### ☁️ Serverless Starters
+Templates and examples for Lambda/API Gateway, CI/CD, and IaC.
+
+**Tech Stack:** `Serverless` `AWS` `Node.js`  
+**Link:** [github.com/Moheed789](https://github.com/Moheed789)
+
+</td>
+<td width="50%">
+
+### 🐍 Python Utilities
+Small Python tools/scripts for automation and data tasks.
+
+**Tech Stack:** `Python` `CLI`  
+**Link:** [github.com/Moheed789](https://github.com/Moheed789)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 My GitHub Stats
+
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Moheed789&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&border_color=21262D" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moheed789&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_color=21262D" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Moheed789&theme=tokyonight&background=0D1117&border=21262D&stroke=58A6FF&ring=58A6FF&fire=FF7B72&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" />
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Moheed789&theme=tokyo-night&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9&area=true&hide_border=true" width="100%" />
+</div>
+
+---
+
+## 💡 Today's Developer Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&bg_color=0D1117&border=21262D" />
+</div>
+
+---
+
+## 🌍 About Me
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+- 🌍 I'm based in **Karachi, Pakistan**
+- 👤 Visit my profile: [JSON Resume](https://registry.jsonresume.org/Moheed789)
+- 🖥️ See my portfolio: [github.com/Moheed789](https://github.com/Moheed789)
+- ✉️ Contact me: **moheedsiddiqui74@gmail.com**
+- 🚀 Currently working on **Geeksvisor**
+- 🧠 I'm learning **NodeJS and AWS services**
+- 🤝 Open to collaborating on **Projects**
+- ⚡ Fun fact: **I am Batman, Tell Everyone** 🦇
+
+---
+
+## 🔗 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moheed-siddiqui/)
+[![Portfolio](https://img.shields.io/badge/GitHub_Profile-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Moheed789)
+[![Resume](https://img.shields.io/badge/JSON_Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://registry.jsonresume.org/Moheed789)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moheedsiddiqui74@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/moheed.siddiqui.2025)
+
+</div>
+
+---
+
+<div align="center">
+  
+### 🎯 "Code. Create. Innovate."
+
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50">
+
+![Visitor Count](https://komarev.com/ghpvc/?username=Moheed789&color=58a6ff&style=for-the-badge&label=Profile+Views)
+![GitHub Followers](https://img.shields.io/github/followers/Moheed789?color=58a6ff&style=for-the-badge&label=Followers&logo=github)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=100&section=footer" width="100%" />
+</div>
