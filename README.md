@@ -135,7 +135,7 @@ Fully serverless backend for event creation, schedules, bookings, user interacti
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Moheed789&theme=tokyo-night&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9&area=true&hide_border=true" width="100%" />
+  <img src="https://ghchart.rshah.org/58A6FF/Moheed789" alt="Moheed789's GitHub contribution chart" width="100%" />
 </div>
 
 ---
