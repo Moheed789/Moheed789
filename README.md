@@ -1,18 +1,18 @@
 # Hi 👋, I'm Muhammad Moheed Siddiqui
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Backend+%26+AWS+Developer;Node.js+%7C+TypeScript+%7C+Serverless;REST+%26+GraphQL+APIs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Specializing+in+Backend+%26+AWS;Node.js+%7C+TypeScript+%7C+Serverless" alt="Typing SVG" />
 </div>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a **Backend & AWS Developer with 3+ years of experience** building scalable, secure, and production-ready web applications.
+I'm a **Full-Stack Developer with 3+ years of experience** building scalable, secure, and production-ready web applications. My **specialization and main focus is Backend and AWS**.
 
-My core specialization is backend engineering using **Node.js, TypeScript, Express.js, REST APIs, GraphQL, AWS Lambda, and serverless architectures**. I also work with **MongoDB, PostgreSQL, DynamoDB, Docker, CI/CD, AWS CDK, and CloudFormation** to build reliable and maintainable cloud applications.
+On the backend, I work with **Node.js, TypeScript, Express.js, REST APIs, GraphQL, AWS Lambda, and serverless architectures**. I also use **MongoDB, PostgreSQL, DynamoDB, Docker, CI/CD, AWS CDK, and CloudFormation** to build reliable and maintainable cloud applications.
 
-While backend and AWS are my primary strengths, I also work across the full stack using **React, Next.js, TypeScript, and JavaScript**.
+On the frontend, I build user interfaces and complete full-stack features using **React, Next.js, TypeScript, and JavaScript**, so I can take a project from the database and API layer all the way to the UI.
 
 I have experience with third-party API integrations (including Stripe subscriptions and webhooks), OpenAI API and LLM integrations, database-driven applications, cloud infrastructure, and performance optimization.
 
@@ -135,7 +135,8 @@ Fully serverless backend for event creation, schedules, bookings, user interacti
 ## 🌍 Quick Facts
 
 - 🌍 Based in **Karachi, Pakistan**
-- 🤝 Open to **freelance and full-time backend / full-stack opportunities**
+- 🎯 Full-Stack Developer, specializing in **Backend & AWS**
+- 🤝 Open to **freelance and full-time full-stack / backend opportunities**
 - ✉️ Contact me: **moheedsiddiqui74@gmail.com**
 - ⚡ Fun fact: **I am Batman, Tell Everyone** 🦇
 
