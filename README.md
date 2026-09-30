@@ -1,36 +1,50 @@
 # Hi 👋, I'm Muhammad Moheed Siddiqui
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Backend+Developer;Node.js+%7C+Serverless;Always+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Backend+%26+AWS+Developer;Node.js+%7C+TypeScript+%7C+Serverless;REST+%26+GraphQL+APIs" alt="Typing SVG" />
 </div>
 
 ---
 
-## My Stack?! Whatever it takes...
+## 👨‍💻 About Me
 
-**Software Engineer** - Backend | NodeJS | JavaScript | TypeScript | Python | NestJS
+I'm a **Backend & AWS Developer with 3+ years of experience** building scalable, secure, and production-ready web applications.
 
-Results-driven backend developer with a love for NodeJS and Serverless—building scalable, reliable systems that ship value.
+My core specialization is backend engineering using **Node.js, TypeScript, Express.js, REST APIs, GraphQL, AWS Lambda, and serverless architectures**. I also work with **MongoDB, PostgreSQL, DynamoDB, Docker, CI/CD, AWS CDK, and CloudFormation** to build reliable and maintainable cloud applications.
 
----
+While backend and AWS are my primary strengths, I also work across the full stack using **React, Next.js, TypeScript, and JavaScript**.
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-</div>
+I have experience with third-party API integrations (including Stripe subscriptions and webhooks), OpenAI API and LLM integrations, database-driven applications, cloud infrastructure, and performance optimization.
 
 ---
 
-## 🛠️ Tech Stack:
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### Backend & Database
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,typescript,python,postgresql,mongodb,graphql" />
+### Backend & Databases
+<img src="https://skillicons.dev/icons?i=nodejs,express,typescript,js,graphql,postgresql,mongodb,dynamodb" />
 
-### Tools & Platforms
-<img src="https://skillicons.dev/icons?i=aws,git,github,vscode,figma,netlify,vercel" />
+### Cloud & DevOps
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github" />
+
+### Frontend
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+
+### Tools
+<img src="https://skillicons.dev/icons?i=vscode" />
 
 </div>
+
+---
+
+## ☁️ Backend & Cloud Focus
+
+- 🔐 **Authentication & authorization** with Amazon Cognito, including MFA, custom attributes, and Lambda triggers
+- ⚡ **Event-driven systems** using SQS, SNS, Lambda triggers, webhooks, and third-party API workflows
+- 🏗️ **Infrastructure as code** with AWS CDK and CloudFormation
+- 📈 **Monitoring & reliability** with CloudWatch, alarms, and AWS X-Ray
+- 🚀 **Performance tuning**, logging, debugging, and clean, maintainable API architecture
 
 ---
 
@@ -40,44 +54,68 @@ Results-driven backend developer with a love for NodeJS and Serverless—buildin
 <tr>
 <td width="50%">
 
-### 🧠 Geeksvisor (Current Work)
-Backend & serverless integrations for agency projects and internal tooling.
+### 🧠 A+ Resumes
+Resume upload and AI scan platform with serverless backend APIs for secure user access, file storage, and application data.
 
-**Tech Stack:** `Node.js` `Serverless` `AWS` `APIs`  
-**Link:** [geeksvisor.com](https://www.geeksvisor.com/)
+**Tech Stack:** `React` `TypeScript` `Node.js` `AWS Lambda` `Cognito` `S3` `DynamoDB`  
+**Link:** [aplusresumes.ai](https://www.aplusresumes.ai)
 
 </td>
 <td width="50%">
 
-### 🗄️ Node/NestJS Experiments  
-A collection of learning repos and patterns exploring NestJS & clean architecture.
+### 🛒 Oyedele Ecommerce
+Store orders and service booking platform with products, search, filtering, cart, reviews, orders, and booking flows.
 
-**Tech Stack:** `NestJS` `TypeScript` `PostgreSQL`  
-**Link:** [github.com/Moheed789?tab=repositories](https://github.com/Moheed789?tab=repositories)
+**Tech Stack:** `Next.js` `Tailwind CSS` `Node.js` `AWS Serverless`  
+**Link:** [mylocalstoreservice.co.uk](https://www.mylocalstoreservice.co.uk)
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### ☁️ Serverless Starters
-Templates and examples for Lambda/API Gateway, CI/CD, and IaC.
+### 📐 Dynamic-3D
+3D measurement and automation website with responsive service and quote-request flows, file uploads, and validation.
 
-**Tech Stack:** `Serverless` `AWS` `Node.js`  
-**Link:** [github.com/Moheed789](https://github.com/Moheed789)
+**Tech Stack:** `React` `JavaScript` `Web Forms`  
+**Link:** [dynamic-3d.com](https://dynamic-3d.com)
 
 </td>
 <td width="50%">
 
-### 🐍 Python Utilities
-Small Python tools/scripts for automation and data tasks.
+### 🩸 Blood-Bank Management System
+Serverless APIs for blood inventory, donor records, and transactions with secure CRUD workflows and optimized DynamoDB access patterns.
 
-**Tech Stack:** `Python` `CLI`  
-**Link:** [github.com/Moheed789](https://github.com/Moheed789)
+**Tech Stack:** `Node.js` `Lambda` `API Gateway` `DynamoDB` `Cognito`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🍽️ Restaurant App
+REST APIs for restaurant orders, reservations, and operations.
+
+**Tech Stack:** `Node.js` `Lambda` `API Gateway` `DynamoDB` `Cognito`
+
+</td>
+<td width="50%">
+
+### 📅 Event Booking & Scheduling Backend
+Fully serverless backend for event creation, schedules, bookings, user interactions, and controlled file storage.
+
+**Tech Stack:** `Node.js` `Lambda` `API Gateway` `DynamoDB` `S3`
 
 </td>
 </tr>
 </table>
+
+---
+
+## 💼 Currently
+
+- 🧠 Backend Developer at **[GeeksVisor](https://www.geeksvisor.com/)** (Nov 2023 – Present)
+- 🎓 Certification: **JavaScript – freeCodeCamp** (2026)
 
 ---
 
@@ -102,25 +140,11 @@ Small Python tools/scripts for automation and data tasks.
 
 ---
 
-## 💡 Today's Developer Quote
+## 🌍 Quick Facts
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&bg_color=0D1117&border=21262D" />
-</div>
-
----
-
-## 🌍 About Me
-
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
-- 🌍 I'm based in **Karachi, Pakistan**
-- 👤 Visit my profile: [JSON Resume](https://registry.jsonresume.org/Moheed789)
-- 🖥️ See my portfolio: [github.com/Moheed789](https://github.com/Moheed789)
+- 🌍 Based in **Karachi, Pakistan**
+- 🤝 Open to **freelance and full-time backend / full-stack opportunities**
 - ✉️ Contact me: **moheedsiddiqui74@gmail.com**
-- 🚀 Currently working on **Geeksvisor**
-- 🧠 I'm learning **NodeJS and AWS services**
-- 🤝 Open to collaborating on **Projects**
 - ⚡ Fun fact: **I am Batman, Tell Everyone** 🦇
 
 ---
@@ -130,20 +154,17 @@ Small Python tools/scripts for automation and data tasks.
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moheed-siddiqui/)
-[![Portfolio](https://img.shields.io/badge/GitHub_Profile-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Moheed789)
+[![GitHub](https://img.shields.io/badge/GitHub_Profile-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Moheed789)
 [![Resume](https://img.shields.io/badge/JSON_Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://registry.jsonresume.org/Moheed789)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moheedsiddiqui74@gmail.com)
-[![Facebook](https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/moheed.siddiqui.2025)
 
 </div>
 
 ---
 
 <div align="center">
-  
-### 🎯 "Code. Create. Innovate."
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50">
+### 🎯 "Code. Create. Innovate."
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Moheed789&color=58a6ff&style=for-the-badge&label=Profile+Views)
 ![GitHub Followers](https://img.shields.io/github/followers/Moheed789?color=58a6ff&style=for-the-badge&label=Followers&logo=github)
