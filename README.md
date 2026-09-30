@@ -132,14 +132,6 @@ Fully serverless backend for event creation, schedules, bookings, user interacti
 
 ---
 
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://ghchart.rshah.org/58A6FF/Moheed789" alt="Moheed789's GitHub contribution chart" width="100%" />
-</div>
-
----
-
 ## 🌍 Quick Facts
 
 - 🌍 Based in **Karachi, Pakistan**
