@@ -8,13 +8,17 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Full-Stack Developer with 3+ years of experience** building scalable, secure, and production-ready web applications. My **specialization and main focus is Backend and AWS**.
+## About Me
 
-On the backend, I work with **Node.js, TypeScript, Express.js, REST APIs, GraphQL, AWS Lambda, and serverless architectures**. I also use **MongoDB, PostgreSQL, DynamoDB, Docker, CI/CD, AWS CDK, and CloudFormation** to build reliable and maintainable cloud applications.
+I'm a Full Stack Developer with 3+ years of professional experience, specializing in Backend Development, AWS Cloud, and Serverless Architecture.
 
-On the frontend, I build user interfaces and complete full-stack features using **React, Next.js, TypeScript, and JavaScript**, so I can take a project from the database and API layer all the way to the UI.
+I build secure, scalable, and maintainable backend applications using Node.js, TypeScript, Express.js, AWS Lambda, API Gateway, DynamoDB, and Amazon Cognito.
 
-I have experience with third-party API integrations (including Stripe subscriptions and webhooks), OpenAI API and LLM integrations, database-driven applications, cloud infrastructure, and performance optimization.
+I also work with React and Next.js for frontend development, along with PostgreSQL, MongoDB, Docker, CI/CD, AWS CDK, and CloudFormation.
+
+My experience includes authentication, event-driven architectures, third-party API integrations, cloud infrastructure, monitoring, debugging, and performance optimization.
+
+I'm currently focusing on improving my AWS architecture skills, exploring cloud best practices, and sharing practical knowledge with the developer community.
 
 ---
 
