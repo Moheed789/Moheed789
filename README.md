@@ -22,19 +22,6 @@ I'm currently focusing on improving my AWS architecture skills, exploring cloud 
 
 ---
 
-
-## AWS Services & Technologies
-
-- **Compute:** AWS Lambda
-- **API & Integration:** Amazon API Gateway, Amazon SQS, Amazon SNS
-- **Database:** Amazon DynamoDB
-- **Authentication:** Amazon Cognito
-- **Storage:** Amazon S3
-- **Monitoring:** Amazon CloudWatch
-- **Infrastructure as Code:** AWS CDK, AWS CloudFormation
-
----
-
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -52,6 +39,18 @@ I'm currently focusing on improving my AWS architecture skills, exploring cloud 
 <img src="https://skillicons.dev/icons?i=vscode" />
 
 </div>
+
+---
+
+## AWS Services & Technologies
+
+- **Compute:** AWS Lambda
+- **API & Integration:** Amazon API Gateway, Amazon SQS, Amazon SNS
+- **Database:** Amazon DynamoDB
+- **Authentication:** Amazon Cognito
+- **Storage:** Amazon S3
+- **Monitoring:** Amazon CloudWatch
+- **Infrastructure as Code:** AWS CDK, AWS CloudFormation
 
 ---
 
