@@ -169,7 +169,7 @@ Fully serverless backend for event creation, schedules, bookings, user interacti
 - 🎯 Full-Stack Developer, specializing in **Backend & AWS**
 - 🤝 Open to **freelance and full-time full-stack / backend opportunities**
 - ✉️ Contact me: **moheedsiddiqui74@gmail.com**
-- ⚡ Fun fact: **I am Batman, Tell Everyone** 🦇
+- ⚡ Fun fact: **I enjoy solving backend challenges with AWS and serverless technologies.**
 
 ---
 
