@@ -65,6 +65,21 @@ I'm currently focusing on improving my AWS architecture skills, exploring cloud 
 
 ---
 
+## AWS Community & Knowledge Sharing
+
+I'm actively exploring AWS cloud technologies, with a focus on serverless architecture, backend development, and cloud best practices.
+
+I enjoy learning from other developers, sharing technical knowledge, and documenting practical AWS solutions.
+
+**Areas of Interest**
+- AWS Serverless Architecture
+- AWS Lambda and API Gateway
+- DynamoDB and Database Design
+- AWS Observability and Monitoring
+- AWS Well-Architected Framework
+
+---
+
 ## 🚀 Featured Projects
 
 <table>
