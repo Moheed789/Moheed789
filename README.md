@@ -8,8 +8,6 @@
 
 ## 👨‍💻 About Me
 
-## About Me
-
 I'm a Full Stack Developer with 3+ years of professional experience, specializing in Backend Development, AWS Cloud, and Serverless Architecture.
 
 I build secure, scalable, and maintainable backend applications using Node.js, TypeScript, Express.js, AWS Lambda, API Gateway, DynamoDB, and Amazon Cognito.
@@ -42,29 +40,31 @@ I'm currently focusing on improving my AWS architecture skills, exploring cloud 
 
 ---
 
-## AWS Services & Technologies
+## ☁️ AWS Services & Technologies
 
 - **Compute:** AWS Lambda
 - **API & Integration:** Amazon API Gateway, Amazon SQS, Amazon SNS
 - **Database:** Amazon DynamoDB
-- **Authentication:** Amazon Cognito
+- **Authentication & Security:** Amazon Cognito, AWS IAM
 - **Storage:** Amazon S3
-- **Monitoring:** Amazon CloudWatch
+- **Monitoring & Observability:** Amazon CloudWatch, AWS X-Ray, AWS Observability
 - **Infrastructure as Code:** AWS CDK, AWS CloudFormation
+- **Architecture & Best Practices:** AWS Well-Architected Framework
+- **Architecture:** AWS Serverless
 
 ---
 
-## ☁️ Backend & Cloud Focus
+## ⚙️ Backend & Cloud Focus
 
-- 🔐 **Authentication & authorization** with Amazon Cognito, including MFA, custom attributes, and Lambda triggers
-- ⚡ **Event-driven systems** using SQS, SNS, Lambda triggers, webhooks, and third-party API workflows
-- 🏗️ **Infrastructure as code** with AWS CDK and CloudFormation
-- 📈 **Monitoring & reliability** with CloudWatch, alarms, and AWS X-Ray
-- 🚀 **Performance tuning**, logging, debugging, and clean, maintainable API architecture
+- **Authentication & authorization** with Amazon Cognito, including MFA, custom attributes, and Lambda triggers
+- **Event-driven systems** using SQS, SNS, Lambda triggers, webhooks, and third-party API workflows
+- **Infrastructure as code** with AWS CDK and CloudFormation
+- **Monitoring & reliability** with CloudWatch, alarms, and AWS X-Ray
+- **Performance tuning**, logging, debugging, and clean, maintainable API architecture
 
 ---
 
-## AWS Community & Knowledge Sharing
+## 🤝 AWS Community & Knowledge Sharing
 
 I'm actively exploring AWS cloud technologies, with a focus on serverless architecture, backend development, and cloud best practices.
 
@@ -85,7 +85,7 @@ I enjoy learning from other developers, sharing technical knowledge, and documen
 <tr>
 <td width="50%">
 
-### 🧠 A+ Resumes
+### A+ Resumes
 Resume upload and AI scan platform with serverless backend APIs for secure user access, file storage, and application data.
 
 **Tech Stack:** `React` `TypeScript` `Node.js` `AWS Lambda` `Cognito` `S3` `DynamoDB`  
@@ -94,7 +94,7 @@ Resume upload and AI scan platform with serverless backend APIs for secure user 
 </td>
 <td width="50%">
 
-### 🛒 Oyedele Ecommerce
+### Oyedele Ecommerce
 Store orders and service booking platform with products, search, filtering, cart, reviews, orders, and booking flows.
 
 **Tech Stack:** `Next.js` `Tailwind CSS` `Node.js` `AWS Serverless`  
@@ -105,7 +105,7 @@ Store orders and service booking platform with products, search, filtering, cart
 <tr>
 <td width="50%">
 
-### 📐 Dynamic-3D
+### Dynamic-3D
 3D measurement and automation website with responsive service and quote-request flows, file uploads, and validation.
 
 **Tech Stack:** `React` `JavaScript` `Web Forms`  
@@ -114,7 +114,7 @@ Store orders and service booking platform with products, search, filtering, cart
 </td>
 <td width="50%">
 
-### 🩸 Blood-Bank Management System
+### Blood-Bank Management System
 Serverless APIs for blood inventory, donor records, and transactions with secure CRUD workflows and optimized DynamoDB access patterns.
 
 **Tech Stack:** `Node.js` `Lambda` `API Gateway` `DynamoDB` `Cognito`
@@ -124,7 +124,7 @@ Serverless APIs for blood inventory, donor records, and transactions with secure
 <tr>
 <td width="50%">
 
-### 🍽️ Restaurant App
+### Restaurant App
 REST APIs for restaurant orders, reservations, and operations.
 
 **Tech Stack:** `Node.js` `Lambda` `API Gateway` `DynamoDB` `Cognito`
@@ -132,7 +132,7 @@ REST APIs for restaurant orders, reservations, and operations.
 </td>
 <td width="50%">
 
-### 📅 Event Booking & Scheduling Backend
+### Event Booking & Scheduling Backend
 Fully serverless backend for event creation, schedules, bookings, user interactions, and controlled file storage.
 
 **Tech Stack:** `Node.js` `Lambda` `API Gateway` `DynamoDB` `S3`
@@ -145,8 +145,8 @@ Fully serverless backend for event creation, schedules, bookings, user interacti
 
 ## 💼 Currently
 
-- 🧠 Backend Developer at **[GeeksVisor](https://www.geeksvisor.com/)** (Nov 2023 – Present)
-- 🎓 Certification: **JavaScript – freeCodeCamp** (2026)
+- Backend Developer at **[GeeksVisor](https://www.geeksvisor.com/)** (Nov 2023 – Present)
+- Certification: **JavaScript – freeCodeCamp** (2026)
 
 ---
 
@@ -165,11 +165,11 @@ Fully serverless backend for event creation, schedules, bookings, user interacti
 
 ## 🌍 Quick Facts
 
-- 🌍 Based in **Karachi, Pakistan**
-- 🎯 Full-Stack Developer, specializing in **Backend & AWS**
-- 🤝 Open to **freelance and full-time full-stack / backend opportunities**
-- ✉️ Contact me: **moheedsiddiqui74@gmail.com**
-- ⚡ Fun fact: **I enjoy solving backend challenges with AWS and serverless technologies.**
+- Based in **Karachi, Pakistan**
+- Full-Stack Developer, specializing in **Backend & AWS**
+- Open to **freelance and full-time full-stack / backend opportunities**
+- Contact me: **moheedsiddiqui74@gmail.com**
+- Fun fact: **I enjoy solving backend challenges with AWS and serverless technologies.**
 
 ---
 
